@@ -188,6 +188,7 @@
       <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibnunezif&theme=tokyonight" alt="Ibnunezif" />
 </p>
+      </td>
   </tr>
   </table>
 
