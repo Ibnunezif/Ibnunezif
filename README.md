@@ -81,7 +81,7 @@
   <img src="https://wakatime.com/badge/user/6d5972f7-e9a4-43ae-9193-142206ed0846.svg" alt="WakaTime Stats" />
 
 </p>
-<img align="right" width="345" alt="Fast Typing" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" />
+<!-- <img align="right" width="345" alt="Fast Typing" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" /> -->
 
 
 
@@ -115,7 +115,7 @@
 <img src="https://img.shields.io/badge/-C++-044F88?style=flat-square&logo=c%2B%2B">
 <img src="https://img.shields.io/badge/-C-1A4674?style=flat-square&logo=c">
 <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"> -->
 
 <!-- ===== Frontend ===== -->
 <img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white">
@@ -130,14 +130,14 @@
 <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white"> -->
 
 <!-- ===== Databases / Cache ===== -->
 <img src="https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql">
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql">
-<img src="https://img.shields.io/badge/-Redis-D32F2F?style=flat-square&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/-Apache_Cassandra-128F76?style=flat-square&logo=apache-cassandra&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/-Redis-D32F2F?style=flat-square&logo=redis&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/-Apache_Cassandra-128F76?style=flat-square&logo=apache-cassandra&logoColor=white"> -->
 
 <!-- ===== Tools / IDEs ===== -->
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
