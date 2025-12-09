@@ -179,9 +179,10 @@
   </tr>
   <tr>
     <td colspan="2">
-      <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ibnunezif&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Ibnunezif" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibnunezif&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Ibnunezif" />
 </p>
+
   </tr>
   <tr>
     <td colspan="2">
