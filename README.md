@@ -1,12 +1,12 @@
 <div align="center" style="border-radius:20px;width: 100%;height:65vh; background-color: #000; padding: 50px 0;">
   <div style="display: inline-block; text-align: center;">
-    <img 
+    <!-- <img 
       src="https://raw.githubusercontent.com/Ibnunezif/readme_images/main/Abdulbasit.jpg" 
       alt="Abdulbasit Nezif" 
       width="250" 
       height="250"
       style="border-radius: 50%; border: 4px solid #61DBFB; box-shadow: 0 0 20px rgba(0,0,0,0.5);"
-    />
+    /> -->
     <p style="color: #58a6ff; font-size: 32px; font-weight: bold; margin-top: 20px;">Abdulbasit Nezif</p>
     <p align="center">
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
